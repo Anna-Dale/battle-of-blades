@@ -227,9 +227,8 @@ const BATTLEFIELDS = [
     id: 'miami',
     name: 'Miami Sunset Bay',
     emoji: '🌴',
-    month: 'Month 1 — Where it all began',
     gradient: 'linear-gradient(135deg, #ff6b6b, #ffd93d, #6bcbff)',
-    description: 'Palm trees, ocean breeze, and golden sunsets — where our story first sparked under the Miami sky. Fast, flashy battles on sun-kissed sand.',
+    description: 'Palm trees, ocean breeze, and golden sunsets. Fast, flashy battles on sun-kissed sand.',
     arenaColor: '#e8c49a',
     accentColor: '#ff6b6b',
     skyTop: '#ff7e5f',
@@ -241,47 +240,44 @@ const BATTLEFIELDS = [
   {
     id: 'pittsburgh',
     name: 'Pittsburgh Love Lock',
-    emoji: '💕',
-    month: 'Month 2 — Steel City romance',
+    emoji: '🌇',
     gradient: 'linear-gradient(135deg, #667eea, #764ba2, #f093fb)',
-    description: 'Our romantic dates in the Steel City — bridges, city lights, and steady hearts. Strategic, patient battles where every move is made with love.',
+    description: 'Eneter the Steel City filled with bridges and city lights. Strategic, patient battles.',
     arenaColor: '#3d3d5c',
     accentColor: '#f093fb',
     skyTop: '#1a1a2e',
     skyMid: '#4a3f6b',
     skyBottom: '#764ba2',
     floorColor: '#2d2d44',
-    particles: 'hearts'
+    particles: 'triangle'
   },
   {
     id: 'texas',
-    name: 'Texas Star Arena',
+    name: 'Texas',
     emoji: '🤠',
-    month: 'Month 3 — Go big or go home',
     gradient: 'linear-gradient(135deg, #f7971e, #ffd200, #c850c0)',
-    description: 'Big skies, bold moves, and wide-open spaces — just like our Texas adventures. High-impact collisions and fearless all-out attacks.',
+    description: 'Big skies, bold moves, and wide-open spaces. High-impact collisions and fearless all-out attacks.',
     arenaColor: '#c87941',
     accentColor: '#f7971e',
     skyTop: '#ff6b35',
     skyMid: '#f7c948',
     skyBottom: '#e85d04',
     floorColor: '#b5651d',
-    particles: 'stars'
+    particles: 'circle'
   },
   {
-    id: 'longdistance',
-    name: 'Miles Apart, Hearts Together',
-    emoji: '💌',
-    month: 'Month 4 — Distance can\'t break us',
+    id: 'newyork',
+    name: 'New York',
+    emoji: '🗽',
     gradient: 'linear-gradient(135deg, #0f0c29, #302b63, #24243e)',
-    description: 'Long distance, but our love stays strong. Every hit lands with heart from afar — proof that miles mean nothing when the bond is real. Fight with love that bridges any gap.',
+    description: 'Big apple filled with adventure, activities, and skyscrapers. Happening battle field with full out attacks',
     arenaColor: '#2a2a4a',
     accentColor: '#9b59b6',
     skyTop: '#0f0c29',
     skyMid: '#302b63',
     skyBottom: '#24243e',
     floorColor: '#1a1a35',
-    particles: 'hearts'
+    particles: 'star'
   }
 ];
 
